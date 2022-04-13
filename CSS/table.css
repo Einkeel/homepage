@@ -1,0 +1,28 @@
+.section__header--highlighted {
+    font-size: 25px;
+}
+
+.table {
+    border-collapse: collapse;
+    padding: 15px;
+    width: 100%;
+    overflow: auto;
+}
+
+.tableCell {
+    border: 1px solid rgba(182, 92, 182, 0.281);
+}
+
+.tableCell:hover {
+    background-color: rgba(255, 127, 80, 0.082);
+}
+
+.tableHeader {
+    background-color: rgb(214, 179, 214);
+    color: black;
+    font-weight: normal;
+}
+
+.tableRow:nth-child(even) {
+    background: rgb(234, 233, 235);
+}

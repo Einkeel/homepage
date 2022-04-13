@@ -1,0 +1,46 @@
+
+.navigation__header {
+    font-weight: 700;
+    font-family: 'Meow Script', cursive;
+    font-size: 35px;
+    color: rgb(182, 92, 182);
+
+}
+
+.navigation__unorderedList {
+    list-style-type: none;
+}
+
+.navigation__listItem {
+    margin: 11px;
+}
+
+.navigation__link {
+    font-weight: 700;
+    background-color: rgba(150, 25, 199, 0.212);
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+
+}
+
+.navigation__link:visited {
+    background-color: rgba(197, 54, 171, 0.836);
+    color: white;
+}
+
+.navigation__link:focus {
+    outline: 2px dotted currentColor;
+}
+
+.navigation__link:hover {
+    background-color: rgba(141, 51, 153, 0.61);
+    color: white;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.navigation__link:active {
+    background-color: rgba(150, 25, 199, 0.685);
+    color: white;
+}

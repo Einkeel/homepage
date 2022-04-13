@@ -1,0 +1,27 @@
+.html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.fullText {
+    max-width: 1000px;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.4;
+}
+
+.footer {
+    border: 3px dotted rgba(182, 92, 182, 0.425);
+    border-radius: 6px 12px 30px 20px;
+    margin: 11px auto;
+    padding: 10px 7%;
+    background-color: rgba(190, 149, 190, 0.151);
+    text-align: center;
+}
+
+.null {
+    display: none;
+}

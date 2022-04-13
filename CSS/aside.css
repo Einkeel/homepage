@@ -1,0 +1,18 @@
+.aside {
+    border: 3px dotted rgba(182, 92, 182, 0.425);
+    border-radius: 6px 12px 30px 20px;
+    padding: 10px 7%;
+    margin: 2%;  
+}
+
+.aside__title {
+    color: rgb(182, 92, 182);
+    font-family: 'Meow Script';
+    font-size: 20px;
+}
+
+.aside__meme {
+    border: 3px dotted rgba(182, 92, 182, 0.425);
+    border-radius: 6px 12px 30px 20px;
+    margin: 2%;
+}
