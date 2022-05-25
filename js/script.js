@@ -1,4 +1,4 @@
-console.log("Cześć!");
+console.log("Cześć! Ten kod jest już w repozytorium Git");
 let button = document.querySelector(".button")
 let pinkpic = document.querySelector(".pinkpic")
 
